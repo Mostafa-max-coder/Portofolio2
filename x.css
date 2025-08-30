@@ -61,7 +61,7 @@
         transition: all 1.5s ease;
         opacity: 0;
         transform: translateY(-30px);
-        
+        color:#000;
         
     }
 
@@ -602,4 +602,5 @@ margin-top: 50px;
         gap: 5px;
         font-size: 13px;
     }
+
 }
